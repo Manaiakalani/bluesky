@@ -46,5 +46,10 @@
   },
   "engines": {
     "node": ">=16.14"
+  },
+  "overrides": {
+    "serialize-javascript": "^6.0.2",
+    "yaml": "^2.5.1",
+    "path-to-regexp": "^8.0.0"
   }
 }
